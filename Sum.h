@@ -15,9 +15,8 @@ public:
 
 private:
 	int mult(int a, int b);
+
 };
-
-
 
 
 #endif
