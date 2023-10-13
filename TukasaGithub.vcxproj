@@ -18,17 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="janken.cpp" />
-    <ClCompile Include="kazuate.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Sum.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="janken.h" />
-    <ClInclude Include="kazuate.h" />
-    <ClInclude Include="Sum.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
